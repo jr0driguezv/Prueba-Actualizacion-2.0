@@ -2,7 +2,7 @@
 <ActualizadorAplicacion> 
     <update appID="BVSoft"> 
         <version>2.0.0.0</version> 
-        <url>https://raw.githubusercontent.com/jr0driguezv/Prueba-Actualizacion/master/Aplicacion/BVSoft.exe</url> 
+        <url>https://raw.githubusercontent.com/jr0driguezv/Prueba-Actualizacion-2.0/master/Aplicacion/BVSoft.exe</url> 
         <fileName>BVSoft.exe</fileName> 
         <md5>883714EC2D7A8270ADD91775E9074711</md5>
         <description>Actualización: 13/09/2018:
