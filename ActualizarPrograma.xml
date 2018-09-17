@@ -1,5 +1,5 @@
 <ActualizadorAplicacion> 
-    <update appID="BVSoft"> 
+    <actualizar id_aplicacion="BVSoft"> 
         <version>2.0.0.0</version> 
         <url>https://raw.githubusercontent.com/jr0driguezv/Prueba-Actualizacion-2.0/master/Aplicacion/BVSoft.exe</url> 
         <fileName>BVSoft.exe</fileName> 
@@ -7,5 +7,5 @@
         <description>Actualización: 13/09/2018:
         1. Se agregó un mensaje de notificación cuando la versión actual ya es la última.</description> 
         <launchArgs></launchArgs> 
-    </update> 
+    </actualizar> 
 </ActualizadorAplicacion> 
