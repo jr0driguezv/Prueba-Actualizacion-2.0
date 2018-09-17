@@ -8,9 +8,6 @@
     <lazar_args>
     </lazar_args>
     <cambios>Actualización (15/09/2018):
-   1- Se agregó un mensaje para notificar que el sistema esta actualizado a la última versión,
-   
-   2- Se agrego un formulario para generar el archivo XML con los cambios realizador y firmar el ejetuable con un codigo único MD5.
-   3- Otras mejoras.</cambios>
+   1- Se agregó un mensaje para notificar que el sistema esta actualizado a la última versión</cambios>
   </actualizar>
 </ActualizadorAplicacion>
