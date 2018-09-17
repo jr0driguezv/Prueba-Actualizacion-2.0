@@ -2,10 +2,10 @@
     <actualizar id_aplicacion="BVSoft"> 
         <version>2.0.0.0</version> 
         <url>https://raw.githubusercontent.com/jr0driguezv/Prueba-Actualizacion-2.0/master/Aplicacion/BVSoft.exe</url> 
-        <fileName>BVSoft.exe</fileName> 
+        <nombre_archivo>BVSoft.exe</nombre_archivo> 
         <md5>8A4ABE847DB5B0FC6F41EB39089A56AE</md5>
-        <description>Actualización: 13/09/2018:
-        1. Se agregó un mensaje de notificación cuando la versión actual ya es la última. </description> 
-        <launchArgs></launchArgs> 
+        <descripcion>Actualización: 13/09/2018:
+        1. Se agregó un mensaje de notificación cuando la versión actual ya es la última. </descripcion> 
+        <lanzar_args></lanzar_args> 
     </actualizar> 
 </ActualizadorAplicacion> 
