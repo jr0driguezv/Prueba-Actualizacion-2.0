@@ -1,0 +1,14 @@
+<ActualizadorAplicacion>
+  <actualizar id_aplicacion="BVSoft">
+    <version>2.0.0.0</version>
+    <url>https://raw.githubusercontent.com/jr0driguezv/Prueba-Actualizacion-2.0/master/Aplicacion/BVSoft.exe</url>
+    <nombre_archivo>BVSoft.exe</nombre_archivo>
+    <md5>1ED2C4476030FA5DDFC7D02A15D60007</md5>
+    <lanzar_args>
+    </lanzar_args>
+    <descripcion>Actualización (17/09/2018):
+   1- Se agrego un mensaje para notificar cuando ya se tiene la ultima version del software instalada.
+   2- Se agrego la funcion de generar el archivo de cambios XML y la firma de la aplicacion. 
+   3- Otras mejoras.</descripcion>
+  </actualizar>
+</ActualizadorAplicacion>
