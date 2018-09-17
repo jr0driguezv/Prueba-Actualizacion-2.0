@@ -1,7 +1,7 @@
-<ActualizadorAplicacion>
+﻿<ActualizadorAplicacion>
   <actualizar id_aplicacion="BVSoft">
     <version>1.0.0.1</version>
-    <url>https://raw.githubusercontent.com/jr0driguezv/Prueba-Actualizacion-2.0/master/Aplicacion/BVSoft.exe</url>
+    <url>file://10.0.0.75/Documentos/Aplicacion/BVSoft.exe</url>
     <nombre_archivo>BVSoft.exe</nombre_archivo>
     <md5>3AC33AE604DE74256ADAB5A107768DBD</md5>
     <lanzar_args>
